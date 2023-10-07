@@ -29,7 +29,7 @@ $('#envoyer').click(function () {
                     console.log('Oops! Recommencer');
                 }
             }else {
-                console.log('Choisit une reponses')
+                console.log('Choisir une reponses')
             }
         },
         error: function (quizz) {

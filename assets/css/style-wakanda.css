@@ -54,6 +54,8 @@ body {
     background-position: top center;
     background-repeat: no-repeat;
     color: white;
+    animation: fadeIn 2s;
+
 }
 
 /* Design de la navigation */
